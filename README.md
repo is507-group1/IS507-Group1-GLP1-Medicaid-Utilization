@@ -32,8 +32,4 @@ Here, *catching up* refers to a reduction in the gap between actual and model-pr
 
 - [Midterm Report (PDF)](Midterm_Report/%28Group%201%29%20GLP-1%20Utilization%20%26%20Health%20Needs%20Across%20U.S.%20States.pdf)
 - [Analysis Code]
-
-## Institution
-
-University of Illinois Urbana-Champaign | Fall 2026
   
