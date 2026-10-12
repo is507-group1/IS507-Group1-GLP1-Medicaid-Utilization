@@ -17,14 +17,14 @@ Here, *catching up* refers to a reduction in the gap between actual and model-pr
 | Dataset | Purpose |
 |---|---|
 | [CMS Medicaid State Drug Utilization Data](https://data.medicaid.gov/dataset/158a1baa-5506-400a-8ec3-97756f0b0536) | Identify GLP-1 prescriptions and aggregate counts by state and quarter |
-| [CDC BRFSS 2025](https://www.cdc.gov/brfss/annual_data/annual_2025.html) | Estimate state-level obesity and diabetes prevalence |
-| [CMS Medicaid Enrollment](https://data.medicaid.gov/dataset/6165f45b-ca93-5bb5-9d06-db29c692a360) | Calculate quarterly Medicaid GLP-1 prescription rates using enrollment data |
+| [CDC BRFSS 2025](https://www.cdc.gov/brfss/annual_data/annual_2025.html) | Estimate survey-weighted state-level obesity and diabetes prevalence |
+| [CMS Medicaid Enrollment](https://data.medicaid.gov/dataset/6165f45b-ca93-5bb5-9d06-db29c692a360) | Calculate quarterly Medicaid GLP-1 prescription rates using average enrollment |
 
 ## Methodology
 
 1. **Data Preparation:** Identify GLP-1 medications, address missing and suppressed records, and integrate prescription, enrollment, and health prevalence data.
 2. **Multiple Linear Regression:** Predict state-level Medicaid GLP-1 prescription rates using obesity prevalence, diabetes prevalence, and quarter.
-3. **Gap and Trend Analysis:** Identify states with negative prediction gaps in Q1 and examine changes through Q4.
+3. **Gap and Trend Analysis:** Identify states with negative utilization gaps in Q1 and track changes through Q4.
 4. **Model Evaluation:** Use state-grouped cross-validation and Mean Squared Error (MSE) to evaluate predictive performance.
 5. **Baseline Comparison:** Compare regression performance against the quarterly average prescription rate across training states.
 
