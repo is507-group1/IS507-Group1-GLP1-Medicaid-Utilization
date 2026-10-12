@@ -30,8 +30,8 @@ Here, *catching up* refers to a reduction in the gap between actual and model-pr
 
 ## Project Files
 
-- [Midterm Report (PDF)](report/Midterm_Report.pdf)
-- [Analysis Code](notebooks/)
+- [Midterm Report (PDF)]
+- [Analysis Code]
 
 ## Institution
 
