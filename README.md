@@ -37,9 +37,10 @@ Here, *catching up* refers to a reduction in the gap between actual and model-pr
 
 ## Code Contributions
 
-- **Main EDA (Wonyoung Kim):** Consolidated EDA notebook incorporating exploratory analyses, findings, and contributions from team members.
-- **Manpreet:** Individual exploratory analysis and data preparation contributing to the team's overall analysis.
-- **Cindy:** Individual exploratory analysis contributing to the team's understanding of the datasets.
+- **[Main EDA (Wonyoung Kim)](Code/%28Wonyoung_Kim%29%20GLP-1%20Utilization%20%26%20Health%20Needs%20Across%20U.S.%20States%20EDA.ipynb):** Consolidated EDA notebook incorporating exploratory analyses, findings, and contributions from team members.
+- **[Manpreet](Code/GLP1_3_datasets_exploration.py):** Individual exploratory analysis contributing to the team's understanding of the datasets.
+- **[Cindy (Koyou Wu)](Code/%28Koyou%20Wu%29%20GLP1_Data_Checks_Graphs.ipynb):** Individual exploratory analysis contributing to the team's understanding of the datasets.
+
 
 Each team member explored the datasets and shared their findings. These contributions were reviewed and incorporated into the Main EDA notebook and informed our shared project report and analysis plan. Some analyses may overlap across notebooks.
   
