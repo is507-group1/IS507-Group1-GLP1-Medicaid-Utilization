@@ -37,9 +37,9 @@ Here, *catching up* refers to a reduction in the gap between actual and model-pr
 
 ## Code Contributions
 
-- **Main EDA (Wonyoung Kim):** Primary EDA notebook prepared by Wonyoung, covering the initial exploration and validation of the project datasets.
-- **Manpreet:** Individual exploratory analysis.
-- **Cindy:** Individual exploratory analysis.
+- **Main EDA (Wonyoung Kim):** Consolidated EDA notebook incorporating exploratory analyses, findings, and contributions from team members.
+- **Manpreet:** Individual exploratory analysis and data preparation contributing to the team's overall analysis.
+- **Cindy:** Individual exploratory analysis contributing to the team's understanding of the datasets.
 
-The notebooks reflect the team's exploratory work and may contain overlapping analyses.
+Each team member explored the datasets and shared their findings. These contributions were reviewed and incorporated into the Main EDA notebook and informed our shared project report and analysis plan. Some analyses may overlap across notebooks.
   
