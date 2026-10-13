@@ -28,10 +28,12 @@ Here, *catching up* refers to a reduction in the gap between actual and model-pr
 4. **Model Evaluation:** Use state-grouped cross-validation and Mean Squared Error (MSE) to evaluate predictive performance.
 5. **Baseline Comparison:** Compare regression performance against the quarterly average prescription rate across training states.
 
+
 ## Project Files
 
 - [Midterm Report (PDF)](Midterm_Report/%28Group%201%29%20GLP-1%20Utilization%20%26%20Health%20Needs%20Across%20U.S.%20States.pdf)
-- [Analysis Code]
+- [Analysis Code](Midterm_Report/%28Group%201%29%20GLP-1%20Utilization%20%26%20Health%20Needs%20Across%20U.S.%20States%20EDA.ipynb)
+  
 
 ## Code Contributions
 
